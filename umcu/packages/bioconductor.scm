@@ -1665,9 +1665,9 @@ outliers.  The main function is rnmf().  The package also includes a
 visualization tool, see(), that arranges and prints vectorized images.")
    (license license:gpl2+)))
 
-(define-public r-xcms-jo
+(define-public r-xcms
   (package
-    (name "r-xcms-jo")
+    (name "r-xcms")
     (version "3.7.4")
     (source
      (origin
